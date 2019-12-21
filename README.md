@@ -13,12 +13,12 @@
 
 
 
-## Project Team
+                                         Project Team
 
                                     Sourav Mandol (Roll - 1607007)
                                     Sumon Mia (Roll - 1607014)
 
- ## Supervised by
+                                     Supervised by
                               Dr. Sk. Mohammad Masudul Ahsan
                                        Professor
                            Dept. of Computer Science and Engineering
