@@ -1,10 +1,10 @@
 ### Liveness_Face_Detection
                                             
-### <b align='center'> Project Report<b>
+                                           Project Report
 
-                                  <h1> CSE 3200: System Development Project<h1>
+                                 CSE 3200: System Development Project
 
-                                   Face Detection Home Security System
+                                 Face Detection Home Security System
 
 
 
@@ -14,16 +14,17 @@
 
 
                                    
-                                        Project Team
+                                    Project Team
 
-Sourav Mandol (Roll - 1607007)
-                                      Sumon Mia (Roll - 1607014)
+                                    Sourav Mandol (Roll - 1607007)
+                                      
+                                    Sumon Mia (Roll - 1607014)
 
-                                                             Supervised by
+                                     Supervised by
                               Dr. Sk. Mohammad Masudul Ahsan
                                        Professor
-                Dept. of Computer Science and Engineering
-                  Khulna University of Engineering & Technology
+                           Dept. of Computer Science and Engineering
+                        Khulna University of Engineering & Technology
 
 
 
