@@ -53,9 +53,9 @@ vii.	To Digitalize Home and Office.
 viii.	Image  Acquisition
                                    
 
-                                             Design (Data Flow Diagram)
+ ## Design (Data Flow Diagram)
   ![Image](images/1.png)
-                  Fig.1: Flow Chart of Face Detection Home Security System
+      Fig.1: Flow Chart of Face Detection Home Security System
 ## METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
            Fig.2: Block Diagram of Methodology of Face Recognition
