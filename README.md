@@ -177,14 +177,15 @@ Ctrl+E	Exit
 shoot	Picture Capture
 Q	Capture Window Exit
                      Fig.15: Table for Key and Actions
-                               Conclusion and Recommendation
-Challenges
+### Conclusion and Recommendation
+# Challenges
 The designed algorithm was effectively able to detect the different type of faces specified on this project and recognize those faces which are known or unknown. The system is able to detect an object in both high and low light. The system has completely user friendly graphical interface (GUI). Every customer can able to use this system so easily even this customer don’t know how to use computer can able to user this. The system has more efficiency because it detects a customer within six (6) images putting on the dataset. Its accuracy is almost 90%. If an eyeglasses person is trained in system, the system can recognize his faces.
-Limitations
+# Limitations
 If bright light appears behind object, the system takes some times to detect it but when the system detects the faces it’s easily recognize it. We also use liveness detection to make the security more strong. But livesness detection isn’t as strong as we want. But for average security, it works good. A person who put eyeglass in front camera but who is already trained without eyeglass, the system is slow to recognize him. 
-Future Activities
+# Future Activities
 In future, this system will be more fast and accurate. Liveness detection will be stronger and perfectly recognize real or fake person. Also, face will easily detect doesn’t matter the person will put eyeglasses or not in future. In every light combination, the system is able recognize object face accurately.
-                                          References
+
+### References
 
 [1]  ‘Design of face detection and recognition system for smart home security application’ , by Dwi Ana Ratna Wati , Dika Abadianto, Department of Electrical Engineering, Universitas Islam Indonesia, Yogyakarta, Indonesia.
 
