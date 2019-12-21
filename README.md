@@ -2,9 +2,9 @@
                                             
 ### <b align='center'> Project Report<b>
 
-                    ### CSE 3200: System Development Project
+                                   CSE 3200: System Development Project
 
-        Face Detection Home Security System
+                                   Face Detection Home Security System
 
 
 
