@@ -1,6 +1,6 @@
 ### Liveness_Face_Detection
                                             
-                                           Project Report
+                                        Project Report
 
                                  CSE 3200: System Development Project
 
@@ -13,12 +13,12 @@
 
 
 
-                                         Project Team
+## Project Team
 
                                     Sourav Mandol (Roll - 1607007)
                                     Sumon Mia (Roll - 1607014)
 
-                                     Supervised by
+## Supervised by
                               Dr. Sk. Mohammad Masudul Ahsan
                                        Professor
                            Dept. of Computer Science and Engineering
@@ -27,7 +27,7 @@
 
 
 # INTRODUCTION
-### Background
+## Background
 Facial recognition is a biometric technology that goes beyond just detecting human faces in an image or video. It goes a bit further to determine whose face it is. A facial recognition system works by taking an image of a face and predicting whether the face matches another face stored in a dataset (or whether a face in one image matches a face in another). 
 Face Recognition home security system is a security system that detects a face whether the guy is known or unknown. After detecting the person, it will open the door or unlock any security.
 
