@@ -27,22 +27,22 @@ Sourav Mandol (Roll - 1607007)
 
 
 
-## INTRODUCTION
-## Background
+# INTRODUCTION
+### Background
 Facial recognition is a biometric technology that goes beyond just detecting human faces in an image or video. It goes a bit further to determine whose face it is. A facial recognition system works by taking an image of a face and predicting whether the face matches another face stored in a dataset (or whether a face in one image matches a face in another). 
 Face Recognition home security system is a security system that detects a face whether the guy is known or unknown. After detecting the person, it will open the door or unlock any security.
 
 ## Purpose
-## High Accuracy Rates
+### High Accuracy Rates
 Most facial recognition software being used in smart home locks can accurately determine whether the person trying to gain access to a home matches the database of people who have been authorized to enter. That said, some software programs are more accurate than others, especially when it comes to detecting faces from various angles and recognizing faces of different nationalities.
 
-## Automation
+### Automation
 Once you’ve set up your smart home security system and granted access to the people you want to allow into your home, the system will automatically let those people in when it detects a match. No need for you to answer the doorbell, or to respond to a request to enter.
 Facial recognition technology is here to stay, and will only get better with time and also better from biometric verification. 
 Faster processing
 The process of recognizing a face takes a second or less — and this is incredibly beneficial for the companies. In the era of constant cyber attacks and advanced hacking tools, companies need a technology that would be both secure and fast.
                          
-## OBJECTIVES
+# OBJECTIVES
 i.	To developing an unlocking system based on face recognition
 ii.	Security
 iii.	IOT based project
@@ -53,11 +53,11 @@ vii.	To Digitalize Home and Office.
 viii.	Image  Acquisition
                                    
 
- ## Design (Data Flow Diagram)
+ # Design (Data Flow Diagram)
   ![Image](images/1.png)
   
    Fig.1: Flow Chart of Face Detection Home Security System
-## METHODOLOGY
+# METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
 
  ![Image](images/2.PNG)
@@ -68,7 +68,7 @@ Face detection performance is a key issue, so techniques for dealing with non‐
 
 
  
- ### Implementation          
+ # Implementation          
 First, we input an image or video frame to our face recognition pipeline. Given the input image, we apply face detection to detect the location of a face in the image. Optionally, we can compute facial landmarks, enabling us to preprocess and align the face.
 Face alignment, as the name suggests, is the process of (1) identifying the geometric structure of the faces and (2) attempting to obtain a canonical alignment of the face based on translation, rotation, and scale.
 While optional, face alignment has been demonstrated to increase face recognition accuracy in some pipelines.
@@ -92,7 +92,7 @@ v. All of these tasks will be accomplished with OpenCV, enabling us to obtain a 
 
 
 
-### Graphical User Interface (GUI)
+# Graphical User Interface (GUI)
 The user interface has all the options needed for the administration and other debugging purpose so that, we do not need to edit code for any management.
 
 
@@ -166,7 +166,7 @@ Fig.14: Help Window
 A user friendly graphical interface is design for this system. Any user can easily use this system without any trouble. To make this interface, we used designer from pyqt5. A major advantage of GUIs is that they make computer operation more intuitive, and thus easier to learn and use.
 
  
- ### Key and Actions
+ # Key and Actions
  
 Key	Action
 Ctrl+A	Admin Panel
@@ -177,15 +177,15 @@ Ctrl+E	Exit
 shoot	Picture Capture
 Q	Capture Window Exit
                      Fig.15: Table for Key and Actions
-### Conclusion and Recommendation
-# Challenges
+# Conclusion and Recommendation
+### Challenges
 The designed algorithm was effectively able to detect the different type of faces specified on this project and recognize those faces which are known or unknown. The system is able to detect an object in both high and low light. The system has completely user friendly graphical interface (GUI). Every customer can able to use this system so easily even this customer don’t know how to use computer can able to user this. The system has more efficiency because it detects a customer within six (6) images putting on the dataset. Its accuracy is almost 90%. If an eyeglasses person is trained in system, the system can recognize his faces.
-# Limitations
+### Limitations
 If bright light appears behind object, the system takes some times to detect it but when the system detects the faces it’s easily recognize it. We also use liveness detection to make the security more strong. But livesness detection isn’t as strong as we want. But for average security, it works good. A person who put eyeglass in front camera but who is already trained without eyeglass, the system is slow to recognize him. 
-# Future Activities
+### Future Activities
 In future, this system will be more fast and accurate. Liveness detection will be stronger and perfectly recognize real or fake person. Also, face will easily detect doesn’t matter the person will put eyeglasses or not in future. In every light combination, the system is able recognize object face accurately.
 
-### References
+# References
 
 [1]  ‘Design of face detection and recognition system for smart home security application’ , by Dwi Ana Ratna Wati , Dika Abadianto, Department of Electrical Engineering, Universitas Islam Indonesia, Yogyakarta, Indonesia.
 
