@@ -55,10 +55,12 @@ viii.	Image  Acquisition
 
  ## Design (Data Flow Diagram)
   ![Image](images/1.png)
-      Fig.1: Flow Chart of Face Detection Home Security System
+  
+   Fig.1: Flow Chart of Face Detection Home Security System
 ## METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
  ![Image](images/2.PNG)
+ 
    Fig.2: Block Diagram of Methodology of Face Recognition
 
 Face detection performance is a key issue, so techniques for dealing with non‐frontal face detection are discussed. Subspace modeling and learning‐based dimension reduction methods are fundamental to many current face recognition techniques. Face recognition has merits of both high accuracy and low intrusive, so it has drawn the attention of the researches in various fields from psychology, image processing to computer vision.
@@ -94,13 +96,15 @@ The user interface has all the options needed for the administration and other d
 
 
 
-  ![Image](images/4.PNG)                              
-Fig.4: Home Window   
+  ![Image](images/4.PNG)   
+  
+  Fig.4: Home Window   
 
 
 
   ![Image](images/5.PNG)
- Fig.5: Security Window
+  
+   Fig.5: Security Window
 
 
 
@@ -116,12 +120,14 @@ After Clicking ‘Security or Press Ctrl+A’ from Home window, then security wi
 
 
 
- ![Image](images/6.PNG)                         ![Image](images/7.PNG)
-Fig.6: Recognise Face                               Fig.7: Admin Panel (Login)
+ ![Image](images/6.PNG) 
+ 
+ Fig.6: Recognise Face                              
 
 
+![Image](images/7.PNG)
 
-
+  Fig.7: Admin Panel (Login)
 
 
 
