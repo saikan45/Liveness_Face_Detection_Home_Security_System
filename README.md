@@ -94,8 +94,13 @@ The user interface has all the options needed for the administration and other d
 
 
 
-  ![Image](images/4.PNG)                              ![Image](images/5.PNG)
-Fig.4: Home Window                                 Fig.5: Security Window
+  ![Image](images/4.PNG)                              
+Fig.4: Home Window   
+
+
+
+  ![Image](images/5.PNG)
+ Fig.5: Security Window
 
 
 
