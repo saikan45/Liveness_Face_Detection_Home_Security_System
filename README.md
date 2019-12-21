@@ -1,6 +1,6 @@
 ### Liveness_Face_Detection
                                             
-### <b>Project Report<b>
+### <b><align='center'> Project Report<b>
 
                     ### CSE 3200: System Development Project
 
