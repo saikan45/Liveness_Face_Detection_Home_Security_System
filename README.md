@@ -58,7 +58,8 @@ viii.	Image  Acquisition
       Fig.1: Flow Chart of Face Detection Home Security System
 ## METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
-           Fig.2: Block Diagram of Methodology of Face Recognition
+ ![Image](images/2.png)
+   Fig.2: Block Diagram of Methodology of Face Recognition
 
 Face detection performance is a key issue, so techniques for dealing with non‐frontal face detection are discussed. Subspace modeling and learning‐based dimension reduction methods are fundamental to many current face recognition techniques. Face recognition has merits of both high accuracy and low intrusive, so it has drawn the attention of the researches in various fields from psychology, image processing to computer vision.
 
