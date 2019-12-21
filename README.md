@@ -91,11 +91,35 @@ v. All of these tasks will be accomplished with OpenCV, enabling us to obtain a 
 
 ### Graphical User Interface (GUI)
 The user interface has all the options needed for the administration and other debugging purpose so that, we do not need to edit code for any management.
+
+
+
   ![Image](images/4.PNG)                              ![Image](images/5.PNG)
 Fig.4: Home Window                                 Fig.5: Security Window
+
+
+
+
+
+
+
+
+
 After Clicking ‘Security or Press Ctrl+A’ from Home window, then security window will open. Click ‘Start’ from security panel, then it will open a camera window which recognizes faces. If the face is in dataset, then it will show his/her name, else show unknown on his/her face. 
+
+
+
+
+
  ![Image](images/6.PNG)                         ![Image](images/7.PNG)
 Fig.6: Recognise Face                               Fig.7: Admin Panel (Login)
+
+
+
+
+
+
+
                         Fig.8: Admin Section (Fully Accessible for Admin)
 To entering the admin section, need a valid password .If the password is wrong, it will show wrong password else it will go to new admin page where admin can add any member, rename  any member if the person exists in database nor it will show “Member Not Found”.      
       Fig.9: Add member                        Fig.10: Rename Member  
