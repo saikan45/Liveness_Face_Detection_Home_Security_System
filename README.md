@@ -59,6 +59,7 @@ viii.	Image  Acquisition
    Fig.1: Flow Chart of Face Detection Home Security System
 ## METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
+
  ![Image](images/2.PNG)
  
    Fig.2: Block Diagram of Methodology of Face Recognition
@@ -130,20 +131,43 @@ After Clicking ‘Security or Press Ctrl+A’ from Home window, then security wi
   Fig.7: Admin Panel (Login)
 
 
+  ![Image](images/8.PNG)
 
-                        Fig.8: Admin Section (Fully Accessible for Admin)
-To entering the admin section, need a valid password .If the password is wrong, it will show wrong password else it will go to new admin page where admin can add any member, rename  any member if the person exists in database nor it will show “Member Not Found”.      
-      Fig.9: Add member                        Fig.10: Rename Member  
-     Fig.11: Remove Member       Fig.12: Password Change          
+   Fig.8: Admin Section (Fully Accessible for Admin)
+To entering the admin section, need a valid password .If the password is wrong, it will show wrong password else it will go to new admin page where admin can add any member, rename  any member if the person exists in database nor it will show “Member Not Found”. 
+
+
+
+  ![Image](images/9.PNG)
+      Fig.9: Add member 
+      
+  ![Image](images/10.PNG)
+      
+   Fig.10: Rename Member 
+      
+  ![Image](images/11.PNG)
+      
+   Fig.11: Remove Member  
+     
+  ![Image](images/12.PNG)
+     
+   Fig.12: Password Change  
+   
 Admin can remove any member from database and also can change his password.
 
-                         
-Fig.13: About Window                              Fig.14: Help Window                         
+  
+  ![Image](images/13.PNG)                       
+Fig.13: About Window   
+
+  ![Image](images/14.PNG)
+
+Fig.14: Help Window                         
 
 A user friendly graphical interface is design for this system. Any user can easily use this system without any trouble. To make this interface, we used designer from pyqt5. A major advantage of GUIs is that they make computer operation more intuitive, and thus easier to learn and use.
 
  
-                                        Key and Actions
+ ### Key and Actions
+ 
 Key	Action
 Ctrl+A	Admin Panel
 Ctrl+S	Security Panel
