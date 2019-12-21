@@ -28,21 +28,21 @@ Sourav Mandol (Roll - 1607007)
 
 
 ## INTRODUCTION
-Background
+## Background
 Facial recognition is a biometric technology that goes beyond just detecting human faces in an image or video. It goes a bit further to determine whose face it is. A facial recognition system works by taking an image of a face and predicting whether the face matches another face stored in a dataset (or whether a face in one image matches a face in another). 
 Face Recognition home security system is a security system that detects a face whether the guy is known or unknown. After detecting the person, it will open the door or unlock any security.
 
-Purpose
-High Accuracy Rates
+## Purpose
+## High Accuracy Rates
 Most facial recognition software being used in smart home locks can accurately determine whether the person trying to gain access to a home matches the database of people who have been authorized to enter. That said, some software programs are more accurate than others, especially when it comes to detecting faces from various angles and recognizing faces of different nationalities.
 
-Automation
+## Automation
 Once you’ve set up your smart home security system and granted access to the people you want to allow into your home, the system will automatically let those people in when it detects a match. No need for you to answer the doorbell, or to respond to a request to enter.
 Facial recognition technology is here to stay, and will only get better with time and also better from biometric verification. 
 Faster processing
 The process of recognizing a face takes a second or less — and this is incredibly beneficial for the companies. In the era of constant cyber attacks and advanced hacking tools, companies need a technology that would be both secure and fast.
                          
-                                               OBJECTIVES
+## OBJECTIVES
 i.	To developing an unlocking system based on face recognition
 ii.	Security
 iii.	IOT based project
@@ -54,9 +54,9 @@ viii.	Image  Acquisition
                                    
 
                                              Design (Data Flow Diagram)
-                                     
+                                     ![Image](images/1.png)
                   Fig.1: Flow Chart of Face Detection Home Security System
-                                          METHODOLOGY
+## METHODOLOGY
 The components of face recognition system are image acquisition, face detection and face recognition as shown by Fig 2.
            Fig.2: Block Diagram of Methodology of Face Recognition
 
