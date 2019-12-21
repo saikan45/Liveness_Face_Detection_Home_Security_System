@@ -2,7 +2,7 @@
                                             
 ### <b align='center'> Project Report<b>
 
-                                   CSE 3200: System Development Project
+                                  <h1> CSE 3200: System Development Project<h1>
 
                                    Face Detection Home Security System
 
