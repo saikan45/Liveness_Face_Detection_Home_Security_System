@@ -1,0 +1,11 @@
+                                  First open the mainwindow.py
+                                  Then select the different option from the mainwindow
+                                  Select ctrl+A for Admin panel
+                                  Select ctrl+s for security panel
+                                  Select ctrl+p for password change panel
+                                  Select ctrl+u for help  panel
+                                  Select ctrl+e for exit
+                                  
+                                  For frequently asked questins and Feedback:
+                                  souravmandol1228@gmail.com
+                                  mia1607045@stud.kuet.ac.bd
