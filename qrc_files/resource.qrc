@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>action.png</file>
+  </qresource>
+</RCC>

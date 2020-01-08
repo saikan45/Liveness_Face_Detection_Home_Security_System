@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="tala">
+    <file>security.png</file>
+  </qresource>
+</RCC>

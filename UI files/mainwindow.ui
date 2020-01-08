@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>534</width>
+    <height>772</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Face_recognition_home_security_system</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="3" column="0">
+     <widget class="QPushButton" name="photo">
+      <property name="text">
+       <string>Take photo</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QPushButton" name="video">
+      <property name="text">
+       <string>Record Video</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap resource="mainresource.qrc">:/mainlogo/logo.png</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QPushButton" name="exit">
+      <property name="text">
+       <string>Exitt</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QPushButton" name="observe">
+      <property name="text">
+       <string>Observe</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="font">
+       <font>
+        <pointsize>20</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>   Face Recognition Home Security</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>534</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuwindow">
+    <property name="title">
+     <string>window</string>
+    </property>
+    <addaction name="actionHome_window"/>
+    <addaction name="actionsecurity_window"/>
+    <addaction name="actionadmin_window"/>
+    <addaction name="actionexit"/>
+   </widget>
+   <widget class="QMenu" name="menusetting">
+    <property name="title">
+     <string>setting</string>
+    </property>
+    <addaction name="actionpassword_change"/>
+   </widget>
+   <widget class="QMenu" name="menuabout">
+    <property name="title">
+     <string>about</string>
+    </property>
+    <addaction name="actionabout_versions"/>
+   </widget>
+   <widget class="QMenu" name="menuhelp">
+    <property name="title">
+     <string>help</string>
+    </property>
+    <addaction name="actionuser_manual"/>
+   </widget>
+   <addaction name="menuwindow"/>
+   <addaction name="menusetting"/>
+   <addaction name="menuabout"/>
+   <addaction name="menuhelp"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionHome_window">
+   <property name="text">
+    <string>Home window</string>
+   </property>
+   <property name="statusTip">
+    <string>open home page</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+M</string>
+   </property>
+   <property name="shortcutContext">
+    <enum>Qt::WindowShortcut</enum>
+   </property>
+  </action>
+  <action name="actionsecurity_window">
+   <property name="text">
+    <string>security window</string>
+   </property>
+   <property name="statusTip">
+    <string>open security window</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="actionadmin_window">
+   <property name="text">
+    <string>admin window</string>
+   </property>
+   <property name="statusTip">
+    <string>open admin window</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+A</string>
+   </property>
+  </action>
+  <action name="actionexit">
+   <property name="text">
+    <string>exit</string>
+   </property>
+   <property name="statusTip">
+    <string>do exit</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+E</string>
+   </property>
+  </action>
+  <action name="actionpassword_change">
+   <property name="text">
+    <string>password change</string>
+   </property>
+   <property name="statusTip">
+    <string>open password change window</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+P</string>
+   </property>
+  </action>
+  <action name="actionabout_versions">
+   <property name="text">
+    <string>about versions</string>
+   </property>
+   <property name="statusTip">
+    <string>version window</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+V</string>
+   </property>
+  </action>
+  <action name="actionuser_manual">
+   <property name="text">
+    <string>user manual</string>
+   </property>
+   <property name="statusTip">
+    <string>open user manual</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+U</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="mainresource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

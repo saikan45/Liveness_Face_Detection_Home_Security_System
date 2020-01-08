@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="adminone">
+    <file>secu.png</file>
+  </qresource>
+</RCC>

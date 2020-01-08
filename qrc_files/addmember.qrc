@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="member">
+    <file>mem.png</file>
+  </qresource>
+</RCC>
